@@ -9,3 +9,6 @@ This is my self-research inspired by PythaiNLP
 - [ ] collect corpus dict word from (https://moradoklanna.com/dict/allwords.php)
 - [ ] Word tokenization (Maximal matching)
 - [ ] Usage tools (e.g. Date, Num2Word, Word2NUm)
+
+## Usage
+In progress...
